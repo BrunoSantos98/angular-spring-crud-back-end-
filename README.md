@@ -2,6 +2,12 @@
 
 > ℹ️ Detalhes: Parte back end de uma aplicação full stack sendo desenvolvida para portfolio. Você pode encontrar o front-end [**clicando aqui**](https://github.com/BrunoSantos98/angular-spring-crud). A parte do Back end da aplicação é um CRUD para a atualização das informações no frront-end.
 
+- 🚧 melhorias a serem feitas 🚧 :
+  
+  - [ ]  Metodo put.
+  - [ ]  Metodo patch.
+  - [ ]  Metodo delete.
+
 ## 💻 Pré Requisitos 💻:
 
 - Sistema operacional: Qualquer Distribuição Linux, Windows e Mac OS
